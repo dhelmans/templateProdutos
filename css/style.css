@@ -2,6 +2,12 @@ body{
     background-color: #F3F7FE;
 }
 
+@media (max-width: 768px) {
+    .hideOverflowOnMobile {
+        overflow: hidden;
+    }
+}
+
 .navbar {
     background-color: #2D70F3;
 }
