@@ -1,0 +1,35 @@
+body{
+    background-color: #F3F7FE;
+}
+
+.navbar {
+    background-color: #2D70F3;
+}
+
+.btn-blue {
+    background-color: #0353F1;
+}
+
+.btn-blue:hover {
+    background-color: #9EBCF6;
+}
+
+.bg1{
+    background-color: #F3F7FE;
+}
+
+.bg2{
+    background-color: #9EBCF6;
+}
+
+.bg3{
+    background-color: #6394F3;
+}
+
+.bg4{
+    background-color: #2D70F3;
+}
+
+.bg5{
+    background-color: #0353F1;
+}
