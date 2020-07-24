@@ -1,5 +1,6 @@
 body{
     background-color: #F3F7FE;
+    overflow-x: hidden;
 }
 
 .navbar {
@@ -7,11 +8,11 @@ body{
 }
 
 .btn-blue {
-    background-color: #0353F1;
+    background-color: #2D70F3;
 }
 
 .btn-blue:hover {
-    background-color: #9EBCF6;
+    background-color: #6394F3;
 }
 
 .bg1{
